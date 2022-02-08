@@ -8,3 +8,5 @@ New text written.
 Added text
 >>>>>>> 478ff0b (Commit)
 Another added with auto close
+
+i am saswata
