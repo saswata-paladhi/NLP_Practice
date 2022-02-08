@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+New text written.
+ By asasAdded text.
+Added text
+=======
+New text written.
+ By asasAdded text.
+Added text
+>>>>>>> 478ff0b (Commit)
+Another added with auto close
